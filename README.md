@@ -3,7 +3,7 @@
 This repository contains a frontend and a Node.js backend, designed to run together.
 The backend acts as a proxy, handling Google Cloud API calls.
 
-This project is intended for demonstration and prototyping purposes only.
+This project is intended for prototyping purposes only.
 It is not intended for use in a production environment.
 
 ## Prerequisites
